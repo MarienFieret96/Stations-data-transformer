@@ -1,0 +1,42 @@
+<div class="form-container">
+  <form (ngSubmit)="onSubmit()">
+    <!-- Input field for ID -->
+    <div class="form-group">
+      <label for="train-id">Lijn ID:</label>
+      <input
+        type="text"
+        id="train-id"
+        name="train-id"
+        placeholder="Lijn ID"
+        [(ngModel)]="trainId"
+      />
+    </div>
+
+    <!-- Dropdown menu for train type -->
+    <div class="form-group">
+      <label for="train-type">Trein Type:</label>
+      <select id="train-type" name="train-type" [(ngModel)]="trainType">
+        <option value="intercity">Intercity</option>
+        <option value="sprinter">Sprinter</option>
+      </select>
+    </div>
+
+    <!-- Input field for route -->
+    <div class="form-group">
+      <label for="train-route">Route:</label>
+      <input
+        type="text"
+        id="train-route"
+        name="train-route"
+        placeholder="Route (e.g., Hardewijk - Zwolle - Amersfoort)"
+        [(ngModel)]="trainRoute"
+      />
+    </div>
+
+    <!-- Submit button -->
+    <div class="form-group">
+      <button (click)="saveToFile()">Opslaan als JSON File</button>
+      <button type="submit">Toevoegen</button>
+    </div>
+  </form>
+</div>
