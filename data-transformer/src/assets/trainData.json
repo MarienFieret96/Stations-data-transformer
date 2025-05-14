@@ -1,0 +1,1100 @@
+[
+  {
+    "id": "43",
+    "type": "intercity",
+    "stations": [
+      "Amsterdam Centraal",
+      "Utrecht Centraal",
+      "Arnhem Centraal",
+      "Oberhausen Hbf",
+      "Duisburg Hbf",
+      "Düsseldorf Hbf",
+      "Minden (Westf)",
+      "Herford",
+      "Bielefeld Hbf",
+      "Gütersloh Hbf",
+      "Hamm (Westf)",
+      "Hagen Hbf",
+      "Wuppertal Hbf",
+      "Köln Hbf",
+      "Siegburg/Bonn",
+      "Frankfurt (Main) Flughafen Fernbahnhof",
+      "Mannheim Hbf",
+      "Karlsruhe Hbf",
+      "Offenburg",
+      "Freiburg (Breisgau) Hbf",
+      "Basel Bad Bf",
+      "Basel SBB"
+    ]
+  },
+  {
+    "id": "77",
+    "type": "intercity",
+    "stations": [
+      "Amsterdam Centraal",
+      "Hilversum",
+      "Amersfoort Centraal",
+      "Apeldoorn",
+      "Deventer",
+      "Hengelo",
+      "Bad Bentheim",
+      "Rheine",
+      "Osnabrück Hbf",
+      "Bünde (Westf)",
+      "Hannover Hbf",
+      "Berlin",
+      "Spandau",
+      "Berlin Hbf",
+      "Berlin Ostbahnhof"
+    ]
+  },
+  {
+    "id": "500",
+    "type": "intercity",
+    "stations": [
+      "Den Haag Centraal",
+      "Gouda",
+      "Utrecht Centraal",
+      "Amersfoort Centraal",
+      "Zwolle",
+      "Assen",
+      "Groningen"
+    ]
+  },
+  {
+    "id": "600",
+    "type": "intercity",
+    "stations": [
+      "Leeuwarden",
+      "Meppel",
+      "Zwolle",
+      "Amersfoort Centraal",
+      "Utrecht Centraal",
+      "Gouda",
+      "Den Haag Centraal"
+    ]
+  },
+  {
+    "id": "700",
+    "type": "intercity",
+    "stations": [
+      "Schiphol Airport",
+      "Amsterdam Zuid",
+      "Almere Centrum",
+      "Lelystad Centrum",
+      "Zwolle",
+      "Assen",
+      "Groningen"
+    ]
+  },
+  {
+    "id": "800",
+    "type": "intercity",
+    "stations": [
+      "Schiphol Airport",
+      "Amsterdam Zuid",
+      "Almere Centrum",
+      "Lelystad Centrum",
+      "Zwolle",
+      "Meppel",
+      "Leeuwarden"
+    ]
+  },
+  {
+    "id": "1100",
+    "type": "intercity",
+    "stations": [
+      "Den Haag Centraal",
+      "Den Haag HS",
+      "Delft",
+      "Rotterdam Centraal",
+      "Breda",
+      "Tilburg",
+      "Eindhoven Centraal"
+    ]
+  },
+  {
+    "id": "1400",
+    "type": "intercity",
+    "stations": [
+      "Utrecht Centraal",
+      "Amsterdam Centraal",
+      "Schiphol Airport",
+      "Den Haag HS",
+      "Rotterdam Centraal"
+    ]
+  },
+  {
+    "id": "1500",
+    "type": "intercity",
+    "stations": [
+      "Amsterdam Centraal",
+      "Hilversum",
+      "Amersfoort Centraal",
+      "Apeldoorn",
+      "Deventer"
+    ]
+  },
+  {
+    "id": "1700",
+    "type": "intercity",
+    "stations": [
+      "Den Haag Centraal",
+      "Gouda",
+      "Utrecht Centraal",
+      "Amersfoort Centraal",
+      "Apeldoorn",
+      "Deventer",
+      "Almelo",
+      "Hengelo",
+      "Enschede"
+    ]
+  },
+  {
+    "id": "1800",
+    "type": "intercity",
+    "stations": [
+      "Breda",
+      "Rotterdam Centraal",
+      "Schiphol Airport",
+      "Amsterdam Zuid",
+      "Duivendrecht",
+      "Hilversum",
+      "Amersfoort Centraal",
+      "Amersfoort Schothorst"
+    ]
+  },
+  {
+    "id": "2000",
+    "type": "intercity",
+    "stations": ["Rotterdam Centraal", "Gouda", "Utrecht Centraal"]
+  },
+  {
+    "id": "2100",
+    "type": "intercity",
+    "stations": [
+      "Amsterdam Centraal",
+      "Haarlem",
+      "Leiden Centraal",
+      "Den Haag Centraal"
+    ]
+  },
+  {
+    "id": "2200",
+    "type": "intercity",
+    "stations": [
+      "Amsterdam Centraal",
+      "Amsterdam Sloterdijk",
+      "Haarlem",
+      "Leiden Centraal",
+      "Den Haag HS",
+      "Delft",
+      "Schiedam Centrum",
+      "Rotterdam Centraal",
+      "Dordrecht",
+      "Roosendaal",
+      "Vlissingen"
+    ]
+  },
+  {
+    "id": "2300",
+    "type": "intercity",
+    "stations": [
+      "Amsterdam Centraal",
+      "Amsterdam Sloterdijk",
+      "Haarlem",
+      "Leiden Centraal",
+      "Den Haag HS",
+      "Delft",
+      "Schiedam Centrum",
+      "Rotterdam Centraal",
+      "Dordrecht",
+      "Roosendaal",
+      "Vlissingen"
+    ]
+  },
+  {
+    "id": "2400",
+    "type": "intercity",
+    "stations": [
+      "Lelystad Centrum",
+      "Almere Buiten",
+      "Almere Centrum",
+      "Amsterdam Zuid",
+      "Schiphol Airport",
+      "Rotterdam Centraal"
+    ]
+  },
+  {
+    "id": "2550",
+    "type": "intercity",
+    "stations": ["Puurs", "Antwerpen-Centraal", "Essen", "Roosendaal"]
+  },
+  {
+    "id": "2600",
+    "type": "intercity",
+    "stations": ["Almere Centrum", "Amsterdam Centraal"]
+  },
+  {
+    "id": "2700",
+    "type": "intercity",
+    "stations": [
+      "Maastricht",
+      "Sittard",
+      "Roermond",
+      "Weert",
+      "Eindhoven Centraal",
+      "'s Hertogenbosch",
+      "Utrecht Centraal",
+      "Amsterdam Centraal",
+      "Alkmaar"
+    ]
+  },
+  {
+    "id": "2800",
+    "type": "intercity",
+    "stations": ["Rotterdam Centraal", "Gouda", "Utrecht Centraal"]
+  },
+  {
+    "id": "2900",
+    "type": "intercity",
+    "stations": [
+      "Enkhuizen",
+      "Hoorn",
+      "Amsterdam Centraal",
+      "Utrecht Centraal",
+      "'s Hertogenbosch",
+      "Eindhoven Centraal",
+      "Weert",
+      "Roermond",
+      "Sittard",
+      "Maastricht"
+    ]
+  },
+  {
+    "id": "3000",
+    "type": "intercity",
+    "stations": [
+      "Nijmegen",
+      "Arnhem Centraal",
+      "Ede",
+      "Wageningen",
+      "Veenendaal",
+      "De Klomp",
+      "Driebergen",
+      "Zeist",
+      "Utrecht Centraal",
+      "Amsterdam Centraal",
+      "Zaandam",
+      "Alkmaar",
+      "Den Helder"
+    ]
+  },
+  {
+    "id": "3100",
+    "type": "intercity",
+    "stations": [
+      "Den Haag Centraal",
+      "Leiden Centraal",
+      "Schiphol Airport",
+      "Amsterdam Bijlmer ArenA",
+      "Utrecht Centraal",
+      "Veenendaal",
+      "De Klomp",
+      "Ede",
+      "Wageningen",
+      "Arnhem Centraal",
+      "Nijmegen"
+    ]
+  },
+  {
+    "id": "3200",
+    "type": "intercity",
+    "stations": [
+      "Arnhem Centraal",
+      "Ede",
+      "Wageningen",
+      "Utrecht Centraal",
+      "Amsterdam Zuid",
+      "Schiphol Airport",
+      "Leiden Centraal",
+      "Den Haag HS",
+      "Delft",
+      "Rotterdam Centraal"
+    ]
+  },
+  {
+    "id": "3400",
+    "type": "intercity",
+    "stations": ["Haarlem", "Beverwijk", "Alkmaar"]
+  },
+  {
+    "id": "3500",
+    "type": "intercity",
+    "stations": [
+      "Dordrecht",
+      "Rotterdam Centraal",
+      "Schiedam Centrum",
+      "Delft",
+      "Den Haag HS",
+      "Leiden Centraal",
+      "Schiphol Airport",
+      "Amsterdam Zuid",
+      "Utrecht Centraal",
+      "'s Hertogenbosch",
+      "Eindhoven Centraal",
+      "Helmond",
+      "Venlo"
+    ]
+  },
+  {
+    "id": "3600",
+    "type": "intercity",
+    "stations": [
+      "Roosendaal",
+      "Breda",
+      "Tilburg",
+      "'s Hertogenbosch",
+      "Nijmegen",
+      "Arnhem Centraal",
+      "Dieren",
+      "Zutphen",
+      "Deventer",
+      "Zwolle"
+    ]
+  },
+  {
+    "id": "3700",
+    "type": "intercity",
+    "stations": ["Amsterdam Centraal", "Purmerend", "Hoorn", "Enkhuizen"]
+  },
+  {
+    "id": "3800",
+    "type": "intercity",
+    "stations": ["Zwolle", "Mariënberg", "Emmen"]
+  },
+  {
+    "id": "3900",
+    "type": "intercity",
+    "stations": [
+      "Enkhuizen",
+      "Hoorn",
+      "Amsterdam Centraal",
+      "Utrecht Centraal",
+      "'s Hertogenbosch",
+      "Eindhoven Centraal",
+      "Weert",
+      "Roermond",
+      "Sittard",
+      "Heerlen"
+    ]
+  },
+  {
+    "id": "4000",
+    "type": "sprinter",
+    "stations": [
+      "Uitgeest",
+      "Zaandam",
+      "Amsterdam Centraal",
+      "Breukelen",
+      "Woerden",
+      "Gouda",
+      "Rotterdam Centraal"
+    ]
+  },
+  {
+    "id": "4100",
+    "type": "sprinter",
+    "stations": [
+      "Hoofddorp",
+      "Schiphol Airport",
+      "Zaandam",
+      "Purmerend",
+      "Hoorn",
+      "Hoorn Kersenboogerd"
+    ]
+  },
+  {
+    "id": "4300",
+    "type": "sprinter",
+    "stations": [
+      "Den Haag Centraal",
+      "Leiden Centraal",
+      "Schiphol Airport",
+      "Amsterdam Zuid",
+      "Weesp",
+      "Almere Centrum",
+      "Almere Buiten",
+      "Almere Oostvaarders",
+      "Lelystad Centrum"
+    ]
+  },
+  {
+    "id": "4400",
+    "type": "sprinter",
+    "stations": [
+      "Oss",
+      "'s Hertogenbosch",
+      "Eindhoven Centraal",
+      "Helmond",
+      "Deurne"
+    ]
+  },
+  {
+    "id": "4600",
+    "type": "sprinter",
+    "stations": [
+      "Amsterdam Centraal",
+      "Weesp",
+      "Almere Centrum",
+      "Almere Buiten",
+      "Almere Oostvaarders"
+    ]
+  },
+  {
+    "id": "4800",
+    "type": "sprinter",
+    "stations": ["Amsterdam Centraal", "Haarlem", "Alkmaar", "Hoorn"]
+  },
+  {
+    "id": "4900",
+    "type": "sprinter",
+    "stations": ["Utrecht Centraal", "Hilversum", "Almere Centrum"]
+  },
+  {
+    "id": "5000",
+    "type": "sprinter",
+    "stations": [
+      "Den Haag Centraal",
+      "Den Haag HS",
+      "Delft",
+      "Schiedam Centrum",
+      "Rotterdam Centraal",
+      "Rotterdam Blaak",
+      "Rotterdam Lombardijen",
+      "Dordrecht"
+    ]
+  },
+  {
+    "id": "5100",
+    "type": "sprinter",
+    "stations": [
+      "Den Haag Centraal",
+      "Den Haag HS",
+      "Delft",
+      "Schiedam Centrum",
+      "Rotterdam Centraal",
+      "Rotterdam Blaak",
+      "Rotterdam Lombardijen",
+      "Dordrecht"
+    ]
+  },
+  {
+    "id": "5200",
+    "type": "sprinter",
+    "stations": [
+      "Den Haag Centraal",
+      "Den Haag HS",
+      "Delft",
+      "Schiedam Centrum",
+      "Rotterdam Centraal",
+      "Rotterdam Blaak",
+      "Rotterdam Lombardijen",
+      "Dordrecht"
+    ]
+  },
+  {
+    "id": "5300",
+    "type": "sprinter",
+    "stations": ["Amersfoort Centraal", "Nijkerk", "Harderwijk"]
+  },
+  {
+    "id": "5400",
+    "type": "sprinter",
+    "stations": ["Amsterdam Centraal", "Haarlem", "Zandvoort aan Zee"]
+  },
+  {
+    "id": "5500",
+    "type": "sprinter",
+    "stations": ["Utrecht Centraal", "Den Dolder", "Baarn"]
+  },
+  {
+    "id": "5600",
+    "type": "sprinter",
+    "stations": [
+      "Utrecht Centraal",
+      "Utrecht Overvecht",
+      "Amersfoort Centraal",
+      "Zwolle"
+    ]
+  },
+  {
+    "id": "5700",
+    "type": "sprinter",
+    "stations": [
+      "Utrecht Centraal",
+      "Hilversum",
+      "Weesp",
+      "Amsterdam Zuid",
+      "Schiphol Airport",
+      "Hoofddorp",
+      "Leiden Centraal"
+    ]
+  },
+  {
+    "id": "5800",
+    "type": "sprinter",
+    "stations": [
+      "Amersfoort Vathorst",
+      "Amersfoort Centraal",
+      "Hilversum",
+      "Weesp",
+      "Amsterdam Centraal"
+    ]
+  },
+  { "id": "5900", "type": "sprinter", "stations": ["Dordrecht", "Roosendaal"] },
+  {
+    "id": "6000",
+    "type": "sprinter",
+    "stations": [
+      "Den Haag Centraal",
+      "Gouda",
+      "Utrecht Centraal",
+      "Geldermalsen",
+      "'s Hertogenbosch"
+    ]
+  },
+  {
+    "id": "6100",
+    "type": "sprinter",
+    "stations": ["Zwolle", "Meppel", "Assen", "Groningen"]
+  },
+  { "id": "6200", "type": "sprinter", "stations": ["Groningen", "Assen"] },
+  {
+    "id": "6300",
+    "type": "sprinter",
+    "stations": [
+      "Den Haag Centraal",
+      "Leiden Centraal",
+      "Heemstede",
+      "Aerdenhout",
+      "Haarlem"
+    ]
+  },
+  {
+    "id": "6400",
+    "type": "sprinter",
+    "stations": [
+      "Tilburg Universiteit",
+      "Tilburg",
+      "Eindhoven Centraal",
+      "Weert"
+    ]
+  },
+  {
+    "id": "6500",
+    "type": "sprinter",
+    "stations": [
+      "Roosendaal",
+      "Bergen op Zoom",
+      "Goes",
+      "Middelburg",
+      "Vlissingen"
+    ]
+  },
+  {
+    "id": "6600",
+    "type": "sprinter",
+    "stations": [
+      "Dordrecht",
+      "Breda",
+      "Tilburg",
+      "'s Hertogenbosch",
+      "Nijmegen",
+      "Arnhem Centraal"
+    ]
+  },
+  {
+    "id": "6700",
+    "type": "sprinter",
+    "stations": [
+      "Leiden Centraal",
+      "Alphen a/d Rijn",
+      "Woerden",
+      "Utrecht Centraal",
+      "Geldermalsen",
+      "Tiel"
+    ]
+  },
+  {
+    "id": "6800",
+    "type": "sprinter",
+    "stations": ["Den Haag Centraal", "Gouda", "Gouda Goverwelle"]
+  },
+  {
+    "id": "6900",
+    "type": "sprinter",
+    "stations": [
+      "Den Haag Centraal",
+      "Gouda",
+      "Utrecht Centraal",
+      "Geldermalsen",
+      "Tiel"
+    ]
+  },
+  {
+    "id": "7000",
+    "type": "sprinter",
+    "stations": ["Apeldoorn", "Deventer", "Almelo", "Hengelo", "Enschede"]
+  },
+  { "id": "7100", "type": "sprinter", "stations": ["Dordrecht", "Gorinchem"] },
+  {
+    "id": "7200",
+    "type": "sprinter",
+    "stations": ["Dordrecht", "Gorinchem", "Geldermalsen"]
+  },
+  {
+    "id": "7300",
+    "type": "sprinter",
+    "stations": [
+      "Breukelen",
+      "Utrecht Centraal",
+      "Driebergen",
+      "Zeist",
+      "Veenendaal Centrum",
+      "Rhenen"
+    ]
+  },
+  {
+    "id": "7400",
+    "type": "sprinter",
+    "stations": [
+      "Uitgeest",
+      "Zaandam",
+      "Amsterdam Centraal",
+      "Breukelen",
+      "Utrecht Centraal",
+      "Driebergen",
+      "Zeist"
+    ]
+  },
+  {
+    "id": "7500",
+    "type": "sprinter",
+    "stations": ["Ede", "Wageningen", "Arnhem Centraal"]
+  },
+  {
+    "id": "7600",
+    "type": "sprinter",
+    "stations": ["Wijchen", "Nijmegen", "Arnhem Centraal", "Dieren", "Zutphen"]
+  },
+  {
+    "id": "7900",
+    "type": "sprinter",
+    "stations": ["Zwolle", "Almelo", "Hengelo", "Enschede"]
+  },
+  {
+    "id": "8000",
+    "type": "sprinter",
+    "stations": ["Zwolle", "Mariënberg", "Emmen"]
+  },
+  {
+    "id": "8100",
+    "type": "sprinter",
+    "stations": [
+      "Hoofddorp",
+      "Schiphol Airport",
+      "Amsterdam Sloterdijk",
+      "Amsterdam Centraal"
+    ]
+  },
+  {
+    "id": "8200",
+    "type": "sprinter",
+    "stations": [
+      "Hoofddorp",
+      "Schiphol Airport",
+      "Amsterdam Sloterdijk",
+      "Amsterdam Centraal"
+    ]
+  },
+  {
+    "id": "8300",
+    "type": "sprinter",
+    "stations": [
+      "Hoofddorp",
+      "Schiphol Airport",
+      "Amsterdam Sloterdijk",
+      "Amsterdam Centraal"
+    ]
+  },
+  {
+    "id": "8400",
+    "type": "sprinter",
+    "stations": [
+      "Hoofddorp",
+      "Schiphol Airport",
+      "Amsterdam Sloterdijk",
+      "Amsterdam Centraal"
+    ]
+  },
+  {
+    "id": "8500",
+    "type": "sprinter",
+    "stations": ["Zwolle", "Zwolle Stadshagen", "Kampen"]
+  },
+  {
+    "id": "8600",
+    "type": "sprinter",
+    "stations": ["Alphen a/d Rijn", "Gouda"]
+  },
+  {
+    "id": "8700",
+    "type": "sprinter",
+    "stations": ["Alphen a/d Rijn", "Gouda"]
+  },
+  {
+    "id": "8800",
+    "type": "sprinter",
+    "stations": [
+      "Leiden Centraal",
+      "Alphen a/d Rijn",
+      "Woerden",
+      "Utrecht Centraal",
+      "Geldermalsen",
+      "'s Hertogenbosch"
+    ]
+  },
+  {
+    "id": "8900",
+    "type": "sprinter",
+    "stations": [
+      "Leiden Centraal",
+      "Alphen a/d Rijn",
+      "Woerden",
+      "Utrecht Centraal"
+    ]
+  },
+  {
+    "id": "9000",
+    "type": "sprinter",
+    "stations": ["Leeuwarden", "Meppel", "Zwolle", "Lelystad Centrum"]
+  },
+  {
+    "id": "9100",
+    "type": "intercity",
+    "stations": [
+      "Amsterdam Centraal",
+      "Rotterdam Centraal",
+      "Brussel-Zuid",
+      "Lille",
+      "Europe",
+      "London St Pancras International"
+    ]
+  },
+  {
+    "id": "9200",
+    "type": "intercity",
+    "stations": [
+      "Rotterdam Centraal",
+      "Breda",
+      "Noorderkempen",
+      "Antwerpen-Centraal",
+      "Mechelen",
+      "Brussels Airport",
+      "Zaventem",
+      "Brussel-Noord",
+      "Brussel-Centraal",
+      "Brussel-Zuid"
+    ]
+  },
+  {
+    "id": "9300",
+    "type": "intercity",
+    "stations": [
+      "Amsterdam Centraal",
+      "Schiphol Airport",
+      "Rotterdam Centraal",
+      "Antwerpen-Centraal",
+      "Brussel-Zuid",
+      "Paris-Nord"
+    ]
+  },
+  {
+    "id": "9500",
+    "type": "intercity",
+    "stations": [
+      "Lelystad Centrum",
+      "Almere Buiten",
+      "Almere Centrum",
+      "Amsterdam Zuid",
+      "Schiphol Airport",
+      "Rotterdam Centraal",
+      "Antwerpen-Centraal",
+      "Brussel-Zuid"
+    ]
+  },
+  {
+    "id": "9900",
+    "type": "intercity",
+    "stations": [
+      "Amsterdam Centraal",
+      "Schiphol Airport",
+      "Rotterdam Centraal",
+      "Antwerpen-Centraal",
+      "Brussel-Zuid"
+    ]
+  },
+  {
+    "id": "11400",
+    "type": "intercity",
+    "stations": [
+      "Leiden Centraal",
+      "Schiphol Airport",
+      "Amsterdam Bijlmer ArenA"
+    ]
+  },
+  {
+    "id": "11800",
+    "type": "intercity",
+    "stations": ["Rotterdam Centraal", "Schiphol Airport", "Amsterdam Zuid"]
+  },
+  {
+    "id": "12400",
+    "type": "intercity",
+    "stations": ["Amsterdam Zuid", "Schiphol Airport", "Rotterdam Centraal"]
+  },
+  {
+    "id": "12900",
+    "type": "intercity",
+    "stations": ["Enkhuizen", "Hoorn", "Amsterdam Centraal"]
+  },
+  {
+    "id": "13800",
+    "type": "intercity",
+    "stations": ["Zwolle", "Coevorden", "Emmen"]
+  },
+  {
+    "id": "14400",
+    "type": "sprinter",
+    "stations": ["Eindhoven Centraal", "Helmond", "Deurne"]
+  },
+  {
+    "id": "14800",
+    "type": "sprinter",
+    "stations": ["Uitgeest", "Beverwijk", "Haarlem", "Amsterdam Centraal"]
+  },
+  {
+    "id": "16700",
+    "type": "sprinter",
+    "stations": ["Utrecht Centraal", "Geldermalsen", "Tiel"]
+  },
+  { "id": "17800", "type": "sprinter", "stations": ["Zutphen", "Apeldoorn"] },
+  {
+    "id": "17900",
+    "type": "intercity",
+    "stations": ["Zwolle", "Almelo", "Hengelo", "Enschede"]
+  },
+  {
+    "id": "18900",
+    "type": "intercity",
+    "stations": [
+      "Maastricht",
+      "Heerlen",
+      "Landgraaf",
+      "Herzogenrath",
+      "Aachen Hbf"
+    ]
+  },
+  {
+    "id": "20000",
+    "type": "intercity",
+    "stations": [
+      "Arnhem Centraal",
+      "Zevenaar",
+      "Emmerich",
+      "Elten",
+      "Emmerich",
+      "Wesel",
+      "Oberhausen Hbf",
+      "Duisburg Hbf",
+      "Düsseldorf Flughafen",
+      "Düsseldorf Hbf"
+    ]
+  },
+  {
+    "id": "20050",
+    "type": "intercity",
+    "stations": [
+      "Venlo",
+      "Mönchengladbach Hbf",
+      "Neuss Hbf",
+      "Düsseldorf Hbf",
+      "Wuppertal Hbf",
+      "Hagen Hbf",
+      "Hamm"
+    ]
+  },
+  {
+    "id": "20100",
+    "type": "sprinter",
+    "stations": ["Groningen", "Zuidbroek", "Bad Nieuweschans", "Weener"]
+  },
+  {
+    "id": "20200",
+    "type": "sprinter",
+    "stations": ["Münster Hbf", "Gronau (Westf)", "Enschede"]
+  },
+  {
+    "id": "20250",
+    "type": "sprinter",
+    "stations": [
+      "Dortmund Hbf",
+      "Preußen",
+      "Lünen Hbf",
+      "Coesfeld (Westf)",
+      "Gronau (Westf)",
+      "Enschede"
+    ]
+  },
+  {
+    "id": "20350",
+    "type": "sprinter",
+    "stations": [
+      "Hengelo",
+      "Bad Bentheim",
+      "Rheine",
+      "Osnabrück Hbf",
+      "Bünde(Westf)",
+      "Bielefeld Hbf"
+    ]
+  },
+  {
+    "id": "28300",
+    "type": "sprinter",
+    "stations": ["Utrecht Centraal", "Utrecht Overvecht", "Utrecht Maliebaan"]
+  },
+  {
+    "id": "30400",
+    "type": "sprinter",
+    "stations": ["Apeldoorn", "Zutphen", "Winterswijk"]
+  },
+  {
+    "id": "30700",
+    "type": "sprinter",
+    "stations": ["Arnhem Centraal", "Doetinchem"]
+  },
+  { "id": "30800", "type": "sprinter", "stations": ["Winterswijk", "Zutphen"] },
+  {
+    "id": "30900",
+    "type": "sprinter",
+    "stations": ["Arnhem Centraal", "Doetinchem", "Terborg", "Winterswijk"]
+  },
+  {
+    "id": "31000",
+    "type": "sprinter",
+    "stations": ["Almelo", "Mariënberg", "Hardenberg"]
+  },
+  {
+    "id": "31100",
+    "type": "sprinter",
+    "stations": ["Arnhem Centraal", "Elst", "Tiel"]
+  },
+  {
+    "id": "31200",
+    "type": "sprinter",
+    "stations": ["Zutphen", "Hengelo", "Oldenzaal"]
+  },
+  {
+    "id": "31300",
+    "type": "sprinter",
+    "stations": [
+      "Amersfoort Centraal",
+      "Barneveld Centrum",
+      "Ede",
+      "Wageningen"
+    ]
+  },
+  {
+    "id": "31400",
+    "type": "sprinter",
+    "stations": ["Amersfoort Centraal", "Barneveld Centrum", "Barneveld Zuid"]
+  },
+  {
+    "id": "32000",
+    "type": "sprinter",
+    "stations": [
+      "Maastricht Randwyck",
+      "Maastricht",
+      "Heerlen",
+      "Landgraaf",
+      "Eygelshoven",
+      "Chevremont",
+      "Kerkrade Centrum"
+    ]
+  },
+  {
+    "id": "32200",
+    "type": "sprinter",
+    "stations": ["Nijmegen", "Venray", "Venlo", "Roermond"]
+  },
+  {
+    "id": "32300",
+    "type": "sprinter",
+    "stations": ["Nijmegen", "Venray", "Venlo"]
+  },
+  {
+    "id": "32400",
+    "type": "sprinter",
+    "stations": ["Maastricht Randwyck", "Maastricht", "Sittard", "Roermond"]
+  },
+  { "id": "32500", "type": "sprinter", "stations": ["Sittard", "Heerlen"] },
+  {
+    "id": "36900",
+    "type": "sprinter",
+    "stations": ["Arnhem Centraal", "Doetinchem", "Terborg"]
+  },
+  { "id": "37000", "type": "sprinter", "stations": ["Leeuwarden", "Sneek"] },
+  {
+    "id": "37100",
+    "type": "sprinter",
+    "stations": ["Leeuwarden", "Sneek", "Stavoren"]
+  },
+  {
+    "id": "37200",
+    "type": "sprinter",
+    "stations": ["Leeuwarden", "Harlingen Haven"]
+  },
+  {
+    "id": "37300",
+    "type": "sprinter",
+    "stations": ["Leeuwarden", "Groningen"]
+  },
+  {
+    "id": "37400",
+    "type": "sprinter",
+    "stations": ["Leeuwarden", "Groningen"]
+  },
+  {
+    "id": "37500",
+    "type": "sprinter",
+    "stations": ["Groningen", "Zuidbroek", "Winschoten", "Bad Nieuweschans"]
+  },
+  {
+    "id": "37600",
+    "type": "sprinter",
+    "stations": ["Groningen", "Roodeschool", "Eemshaven"]
+  },
+  { "id": "37700", "type": "sprinter", "stations": ["Groningen", "Delfzijl"] },
+  {
+    "id": "37800",
+    "type": "sprinter",
+    "stations": ["Groningen", "Zuidbroek", "Veendam"]
+  },
+  {
+    "id": "37900",
+    "type": "sprinter",
+    "stations": ["Groningen", "Winschoten"]
+  },
+  { "id": "38000", "type": "sprinter", "stations": ["Leeuwarden", "Sneek"] }
+]
