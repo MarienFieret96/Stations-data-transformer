@@ -140,24 +140,4 @@ export class AppComponent implements OnInit {
     this.trainType = 'sprinter';
     this.trainRoute = '';
   }
-  saveToFile() {
-    // Retrieve the data from local storage
-    const trainData = localStorage.getItem('stationConnections');
-    if (!trainData) {
-      console.error('No data found in local storage to save.');
-      return;
-    }
-
-    // Create a Blob from the JSON string
-    const blob = new Blob([trainData], { type: 'application/json' });
-
-    // Create a temporary anchor element to trigger the download
-    const a = document.createElement('a');
-    a.href = URL.createObjectURL(blob);
-    a.download = 'trainData.json'; // File name for the downloaded file
-    a.click();
-
-    // Clean up the URL object
-    URL.revokeObjectURL(a.href);
-  }
 }
